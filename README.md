@@ -5,7 +5,7 @@ Me chamo Luca Henrique Tavares e sejam bem vindos a meu perfil no git hub!
 Algumas Informações sobre mim:
 -  🎓CEFET-MG | técnico em informática
 -  🔭 Projeto de iniciação científica júnior (PIBIC-JR) UFSJ: 2022-2024.
-- :books: Engenharia Química Escola Politécnica(USP)
+- :books: Engenharia Química | Escola Politécnica(USP)
 
 <h2> 🚀 &nbsp;Ferramentas que utilizo</h2>
 <p align="left">
