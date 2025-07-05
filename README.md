@@ -6,6 +6,7 @@ Algumas Informações sobre mim:
 -  🎓CEFET-MG | técnico em informática
 -  🔭 Projeto de iniciação científica júnior (PIBIC-JR) UFSJ: 2022-2024.
 - :books: Engenharia Química | Escola Politécnica(USP)
+- Membro do Turing USP
 
 <h2> 🚀 &nbsp;Ferramentas que utilizo</h2>
 <p align="left">
